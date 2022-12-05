@@ -1,2 +1,2 @@
-# forumApp
-掲示板アプリ
+# forum-app-server
+掲示板アプリのバックエンド
